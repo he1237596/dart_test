@@ -2,8 +2,8 @@
  * @Author: Chris
  * @Date: 2020-08-29 16:39:30
  * @LastEditors: Chris
- * @LastEditTime: 2020-08-29 17:31:37
- * @Descripttion:   number类型（int/double）
+ * @LastEditTime: 2020-09-01 20:43:57
+ * @Descripttion:   数值类型（int/double）
  */
 
 main(List<String> args) {
