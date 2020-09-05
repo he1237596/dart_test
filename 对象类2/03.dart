@@ -2,7 +2,7 @@
  * @Author: Chris
  * @Date: 2020-09-04 11:53:43
  * @LastEditors: Chris
- * @LastEditTime: 2020-09-04 11:54:02
+ * @LastEditTime: 2020-09-04 20:36:45
  * @Descripttion: 继承
  */
 /*
@@ -11,7 +11,7 @@
 
 
 Dart中的类的继承：  
-    1、子类使用extends关键词来继承父类
+    1、子类使用extends关键词来继承父类（父类没有无名无参的构造函数，需要子类手动调用super()）!!!
     2、子类会继承父类里面可见的属性和方法 但是不会继承构造函数
     3、子类能复写父类的方法 getter和setter
 
